@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\User\Desktop\SearchServer2\SearchServer2\search_server.h(19,26): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+  request_queue.cpp
+C:\Users\User\Desktop\SearchServer2\SearchServer2\search_server.h(19,26): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+C:\Users\User\Desktop\SearchServer2\SearchServer2\request_queue.cpp(13,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\SearchServer2\SearchServer2\request_queue.cpp(20,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  search_server.cpp
+C:\Users\User\Desktop\SearchServer2\SearchServer2\search_server.h(19,26): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+C:\Users\User\Desktop\SearchServer2\SearchServer2\search_server.cpp(32,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  SearchServer2.vcxproj -> C:\Users\User\Desktop\SearchServer2\x64\Debug\SearchServer2.exe
